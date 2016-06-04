@@ -1,0 +1,15 @@
+net: 'fcn-32s-fuse-train.prototxt'
+display: 20
+average_loss: 20
+lr_policy: "poly"
+power: 0.9
+base_lr: 1e-8
+momentum: 0.9
+iter_size: 1
+max_iter: 300000
+weight_decay: 0.0005
+snapshot: 10000
+snapshot_prefix: 'FCN-32S-fuse-rgb-d_snapshot'
+test_initialization: false
+debug_info: false
+solver_mode:   GPU

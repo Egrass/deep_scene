@@ -1,0 +1,17 @@
+Head = Scalar(255,0,0);
+Chest = Scalar(0,255,0);
+Right upper arm = Scalar(0,0,255);
+Right lower arm = Scalar(255,255,0);
+Right hand = Scalar(255,0,255);
+Left upper arm = Scalar(0,255,255);
+Left lower arm = Scalar(255,255,255);
+Left hand = Scalar(130,130,130);
+Right upper leg = Scalar(255,130,0);
+Right lower leg = Scalar(255,0,130);
+Right foot = Scalar(130,255,0);
+Left upper leg = Scalar(0,255,130);
+Left lower leg = Scalar(130,0,255);
+Left foot = Scalar(0,130,255);
+
+Scalar(blue_value, green_value, red_value);
+			
